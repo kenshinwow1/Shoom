@@ -1,0 +1,19 @@
+{
+  "name": "shoom",
+  "version": "1.0.0",
+  "description": "Roman2 xD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenshinwow1/Shoom.git"
+  },
+  "author": "I'm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenshinwow1/Shoom/issues"
+  },
+  "homepage": "https://github.com/kenshinwow1/Shoom#readme"
+}
