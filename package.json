@@ -1,7 +1,7 @@
 {
   "name": "shoom",
   "version": "1.0.0",
-  "description": "Roman2 xD",
+  "description": "test repository for practice with git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/kenshinwow1/Shoom.git"
   },
-  "author": "I'm",
+  "author": "kenshinwow1@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kenshinwow1/Shoom/issues"
