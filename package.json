@@ -1,0 +1,25 @@
+{
+  "name": "handy-hooks",
+  "version": "0.0.1",
+  "description": "utility hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shemrock3267/handy-hooks.git"
+  },
+  "author": "dev.oliinyk@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shemrock3267/handy-hooks/issues"
+  },
+  "homepage": "https://github.com/Shemrock3267/handy-hooks#readme",
+  "devDependencies": {
+    "react": "^18.2.0"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
