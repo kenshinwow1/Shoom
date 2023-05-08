@@ -1,5 +1,5 @@
 {
-  "name": "handy-hooks",
+  "name": "@dev-shoom/handy-hooks",
   "version": "0.0.1",
   "description": "utility hooks",
   "main": "index.js",
